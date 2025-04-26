@@ -1,4 +1,4 @@
-# Hi there, I'm Zengqi (Dylan) Zhao 👋
+# Hi, I'm Zengqi (Dylan) Zhao 👋
 
 I'm a Computer Science and Statistics student at the University of North Carolina at Chapel Hill, passionate about machine learning, computer vision, and intelligent systems.
 
@@ -51,14 +51,14 @@ B.S. in Computer Science & Statistics and Operational Research
 
 ## 🚀 Projects
 
+[AI-Powered Framed-Based Video Enhancing Implementation Example](https://github.com/DylanZhao123/ai-video-surveillance) 
 
+Toy example for Aqishi's real-time surveillance enhancing techinque. Researched and implemented with R-CNN using TensorFlow, achieving 85%+ detection accuracy.
 
 
 [Final-COMP-126]https://github.com/ArchieSteph/Final-COMP-126
 
 Developed a simple web application as the final project for COMP 126 at UNC, focusing on responsive design, JavaScript interactivity, and user experience.
-
-
 
 [COMP311]https://github.com/DylanZhao123/Logic-Circuit-Design-Practice
 
