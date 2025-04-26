@@ -51,10 +51,17 @@ B.S. in Computer Science & Statistics and Operational Research
 
 ## 🚀 Projects
 
+[China Towers' customer feedback collection & conclusion](https://github.com/DylanZhao123/TowerFeedbackSet) 
+
+Distilled Data for China Towers' user feedback in the form of SQL-based data aggregation.
+
 [AI-Powered Framed-Based Video Enhancing Implementation Example](https://github.com/DylanZhao123/ai-video-surveillance) 
 
 Toy example for Aqishi's real-time surveillance enhancing techinque. Researched and implemented with R-CNN using TensorFlow, achieving 85%+ detection accuracy.
 
+[AudioCapturer](https://github.com/DylanZhao123/AudioCapturer)
+
+A toy example for capturing audio from PC, generating subtitles and more.
 
 [Final-COMP-126](https://github.com/ArchieSteph/Final-COMP-126)
 
@@ -65,9 +72,6 @@ Developed a simple web application as the final project for COMP 126 at UNC, foc
 Created a series of Assemply Design as projects of COMP 311, focusing on logic circuits, MIPS and CPU etc. 
 
 
-[AudioCapturer](https://github.com/DylanZhao123/AudioCapturer)
-
-A toy example for capturing audio from PC, generating subtitles and more.
 
 - *(Not all projects have been uploaded. More projects coming soon...)*
 ---
