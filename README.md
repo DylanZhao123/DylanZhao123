@@ -51,7 +51,8 @@ B.S. in Computer Science & Statistics and Operational Research
 
 ## 🚀 Projects
 
-
+[Final-COMP-126]https://github.com/ArchieSteph/Final-COMP-126
+Developed a simple web application as the final project for COMP 126, focusing on responsive design, JavaScript interactivity, and user experience.
 
 - *(Not all projects have been uploaded. More projects coming soon...)*
 
