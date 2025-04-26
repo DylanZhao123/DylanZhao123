@@ -57,7 +57,7 @@ Developed a simple web application as the final project for COMP 126 at UNC, foc
 
 
 
-[comp311]https://github.com/DylanZhao123/Logic-Circuit-Design-Practice
+[COMP311]https://github.com/DylanZhao123/Logic-Circuit-Design-Practice
 
 Created a series of Assemply Design as projects of COMP 311, focusing on logic circuits, MIPS and CPU etc. 
 
