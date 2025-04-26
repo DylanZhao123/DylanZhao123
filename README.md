@@ -56,16 +56,16 @@ B.S. in Computer Science & Statistics and Operational Research
 Toy example for Aqishi's real-time surveillance enhancing techinque. Researched and implemented with R-CNN using TensorFlow, achieving 85%+ detection accuracy.
 
 
-[Final-COMP-126]https://github.com/ArchieSteph/Final-COMP-126
+[Final-COMP-126](https://github.com/ArchieSteph/Final-COMP-126)
 
 Developed a simple web application as the final project for COMP 126 at UNC, focusing on responsive design, JavaScript interactivity, and user experience.
 
-[COMP311]https://github.com/DylanZhao123/Logic-Circuit-Design-Practice
+[COMP311](https://github.com/DylanZhao123/Logic-Circuit-Design-Practice)
 
 Created a series of Assemply Design as projects of COMP 311, focusing on logic circuits, MIPS and CPU etc. 
 
 
-[AudioCapturer]https://github.com/DylanZhao123/AudioCapturer
+[AudioCapturer](https://github.com/DylanZhao123/AudioCapturer)
 
 A toy example for capturing audio from PC, generating subtitles and more.
 
