@@ -51,6 +51,9 @@ B.S. in Computer Science & Statistics and Operational Research
 
 ## 🚀 Projects
 
+
+
+
 [Final-COMP-126]https://github.com/ArchieSteph/Final-COMP-126
 
 Developed a simple web application as the final project for COMP 126 at UNC, focusing on responsive design, JavaScript interactivity, and user experience.
@@ -63,6 +66,7 @@ Created a series of Assemply Design as projects of COMP 311, focusing on logic c
 
 
 [AudioCapturer]https://github.com/DylanZhao123/AudioCapturer
+
 A toy example for capturing audio from PC, generating subtitles and more.
 
 - *(Not all projects have been uploaded. More projects coming soon...)*
