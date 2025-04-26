@@ -61,6 +61,10 @@ Developed a simple web application as the final project for COMP 126 at UNC, foc
 
 Created a series of Assemply Design as projects of COMP 311, focusing on logic circuits, MIPS and CPU etc. 
 
+
+[AudioCapturer]https://github.com/DylanZhao123/AudioCapturer
+A toy example for capturing audio from PC, generating subtitles and more.
+
 - *(Not all projects have been uploaded. More projects coming soon...)*
 ---
 
