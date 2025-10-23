@@ -21,6 +21,6 @@ B.S. in Computer Science & Statistics and Operational Research
 ---
 
 > "Innovation is the ability to see change as an opportunity – not a threat."  
-> — Steve Jobs
+> — Steve Jobs      :)
 
 
