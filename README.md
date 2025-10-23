@@ -3,7 +3,6 @@
 I'm a Computer Science and Statistics student at the University of North Carolina at Chapel Hill, passionate about machine learning, computer vision, and intelligent systems.
 
 I love solving real-world problems with AI and data, from enhancing user feedback systems to diagnosing diseases and developing smart surveillance solutions.
-
 ---
 
 ## 📚 Education
