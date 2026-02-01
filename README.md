@@ -1,13 +1,11 @@
-# Hi, I'm Zengqi (Dylan) Zhao 👋
+# Hi, I'm Dylan Zhao
 
 I'm a Computer Science and Statistics student at the University of North Carolina at Chapel Hill, passionate about machine learning, computer vision, and intelligent systems.
-
-I love solving real-world problems with AI and data, from enhancing user feedback systems to diagnosing diseases and developing smart surveillance solutions.
 ---
 
-## 📚 Education
+## Education
 
-**University of North Carolina at Chapel Hill** (Aug 2024 – Dec 2026)  
+**University of North Carolina at Chapel Hill** (Aug 2024 – May 2027)  
 B.S. in Computer Science & Statistics and Operational Research  
 - Relevant Courses: Data Structures & Algorithms, Machine Learning, Probability, Optimization, Computer Organization
 
