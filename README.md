@@ -1,13 +1,13 @@
 # Hi, I'm Dylan Zhao
 
-I'm a Computer Science and Statistics student at the University of North Carolina at Chapel Hill, passionate about machine learning, computer vision, and intelligent systems.
+I'm a Computer Science and Statistics student at the University of North Carolina at Chapel Hill, passionate about machine learning, computer vision and multimodal.
 ---
 
 ## Education
 
 **University of North Carolina at Chapel Hill** (Aug 2024 – May 2027)  
 B.S. in Computer Science & Statistics and Operational Research  
-- Relevant Courses: Data Structures & Algorithms, Machine Learning, Probability, Optimization, Computer Organization
+- Relevant Courses: Data Structures & Algorithms, Machine Learning, Probability, Optimization etc.
 
 
 ## Contact
